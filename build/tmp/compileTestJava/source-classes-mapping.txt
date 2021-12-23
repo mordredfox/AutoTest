@@ -1,0 +1,10 @@
+page/BasePage.java
+ page.BasePage
+page/MainPage.java
+ page.MainPage
+test/BaseDriver.java
+ test.BaseDriver
+steps/MainSteps.java
+ steps.MainSteps
+test/Runtest.java
+ test.Runtest
